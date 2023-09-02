@@ -1,0 +1,8 @@
+2023-09-02 23:57:45,041 - INFO: ETL Job Started
+2023-09-03 00:00:01,347 - INFO: ETL Job Started
+2023-09-03 00:00:01,348 - INFO: Extract phase Started
+2023-09-03 00:01:34,805 - INFO: Extract phase Ended
+2023-09-03 00:03:33,771 - INFO: Transform phase Started
+2023-09-03 00:08:14,040 - INFO: Transform phase Ended
+2023-09-03 00:08:47,158 - INFO: Load phase Started
+2023-09-03 00:10:26,553 - INFO: Load phase Ended
